@@ -1,2 +1,2 @@
 # Pokedex-Funcional
-Pokédex funcional - html, css e javascript
+🛠️ Construído com - html, css e javascript
